@@ -2,19 +2,19 @@
 
 **_Простой способ поделиться фото с друзьями и близкими_**
 ### Окно регистрации
-![Окно регистрации](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/registration.png)
+![Окно регистрации](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/registration.png)
 ### Окно входа
-![Окно входа](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/sign-in.png)
+![Окно входа](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/sign-in.png)
 ### Главная страница
-![Главная](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/main.png)
+![Главная](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/main.png)
 ### Редактирование профиля
-![Профиль](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/redactProf.png)
+![Профиль](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/redactProf.png)
 ### Попап с картинкой
-![Картинка](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/popupImage.png)
+![Картинка](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/popupImage.png)
 ### Добавление карточки с фото
-![Добавить место](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/addImage.png)
+![Добавить место](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/addImage.png)
 ### Обновление аватара
-![Обновить аватар](https://github.com/KishlyanovP/mesto-react/raw/main/src/images/uploadAvatar.png)
+![Обновить аватар](https://github.com/KishlyanovP/react-mesto-auth/raw/main/src/images/uploadAvatar.png)
 
 ## Функциональность    <img src="https://img.icons8.com/ios-filled/30/000000/camera--v1.png"/>
 
